@@ -1,3 +1,7 @@
+# .idea isn't not need in github
+.idea/*
+*.iml
+
 ## File-based project format:
 *.iws
 
@@ -15,7 +19,4 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-# .idea isn't not need in github
-.idea/*
-*.iml
-# test
+
